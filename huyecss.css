@@ -1,0 +1,18 @@
+body {
+    background-image: url(./css/esc4.png);
+    background-size: 97%;
+    background-repeat: no-repeat;
+    
+}
+
+h1 {
+    color: brown;
+}
+
+p {
+    color: brown;
+}
+a {
+    color: black;
+    display: block;
+}

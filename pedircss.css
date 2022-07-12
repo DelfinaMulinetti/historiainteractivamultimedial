@@ -1,0 +1,19 @@
+body {
+    background-image: url(./css/escOliver3.png);
+    background-repeat: no-repeat;
+    background-size: 100%; 
+}
+
+h1 {
+    color: brown;
+}
+
+p {
+    color: brown;
+}
+
+a {
+    color: black;
+    display: block;
+    flex-wrap: wrap;
+}

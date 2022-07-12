@@ -1,0 +1,17 @@
+body {
+    background-image: url(./css/escFIN.png);
+    background-size: 100%;
+    background-repeat: no-repeat; }
+
+    h1 {
+        color: brown
+    }
+
+    p {
+        color: brown;
+    }
+    
+
+    a  {
+        color: black;
+    }
